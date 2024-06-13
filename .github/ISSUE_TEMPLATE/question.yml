@@ -25,7 +25,6 @@ body:
       required: true
   
   - type: markdown
-    attributes:
     value: |
       Please provide as much context of your issue as it is possible including information how you initialize your ble manager and how you use it.
   - type: textarea
