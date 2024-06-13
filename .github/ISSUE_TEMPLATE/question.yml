@@ -27,6 +27,5 @@ body:
   - type: textarea
     attributes:
       label: Question related code
-      placeholder: Please provide problem related code
-      description: Please provide as much context of your issue as it is possible including information how you initialize your ble manager and how you use it.
+      placeholder: Please provide as much context of your issue as it is possible including information how you initialize your ble manager and how you use it.
       render: markdown
